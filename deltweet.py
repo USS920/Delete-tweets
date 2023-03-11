@@ -1,10 +1,10 @@
 import tweepy
 import datetime
 
-consumer_key="IFFIRl234sFoIlvjs2dym7A2q"
-consumer_secret="op3l0KEolTycpTO63bHphewrlZLuuReDzZ0p94jMq4QCh6Jz9C"
-access_token="1403363039466819586-6wSIxYVZa4ngQFvTZZXOPLwS5dnWgl"
-access_token_secret="p7KK1f6ka2pYuwQBlOeTHLrjqGITcyxrWGNolOcx326rq"
+consumer_key="IFFIRl234sFoasdasdym7A2q"
+consumer_secret="op3asdasdZLuuReDasdasdasdasdasdasd6Jz9C"
+access_token="14123343653412386-asdasdasdasdasdLwasdl"
+access_token_secret="p7KK1f6ka2asdasdasdasdasdasdTcyxrWGNolOcx326rq"
 
 
 
